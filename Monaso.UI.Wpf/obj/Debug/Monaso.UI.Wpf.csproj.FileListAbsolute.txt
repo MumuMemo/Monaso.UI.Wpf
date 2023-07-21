@@ -1,0 +1,16 @@
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\bin\Debug\Monaso.UI.Wpf.dll
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\bin\Debug\Monaso.UI.Wpf.pdb
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf.csproj.AssemblyReference.cache
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Controls\Controls.baml
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf_MarkupCompile.cache
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf_MarkupCompile.lref
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Controls\MenuButton\Generic.baml
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Controls\MenuButton\MenuButton.baml
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf.g.resources
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf.Properties.Resources.resources
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf.csproj.GenerateResource.cache
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf.csproj.CoreCompileInputs.cache
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf.dll
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf.pdb
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Controls\Colors.baml

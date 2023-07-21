@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monaso.UI.Demo", "Monaso.UI.Demo\Monaso.UI.Demo.csproj", "{8BB3F25C-D797-4516-AED9-87D255E32533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monaso.UI.Wpf", "Monaso.UI.Wpf\Monaso.UI.Wpf.csproj", "{2463E812-3C1E-442D-B1E0-9C10852B5B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB3F25C-D797-4516-AED9-87D255E32533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB3F25C-D797-4516-AED9-87D255E32533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB3F25C-D797-4516-AED9-87D255E32533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB3F25C-D797-4516-AED9-87D255E32533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2463E812-3C1E-442D-B1E0-9C10852B5B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2463E812-3C1E-442D-B1E0-9C10852B5B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2463E812-3C1E-442D-B1E0-9C10852B5B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2463E812-3C1E-442D-B1E0-9C10852B5B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA590648-38D6-4042-B1E2-D4B45D698FAA}
+	EndGlobalSection
+EndGlobal
