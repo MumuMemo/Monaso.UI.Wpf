@@ -19,3 +19,5 @@ D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Demo\obj\Debug\Monaso.UI.Demo.exe
 D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Demo\obj\Debug\Monaso.UI.Demo.pdb
 D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Demo\obj\Debug\Resource\Icon\Icons.baml
 D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Demo\obj\Debug\App.baml
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Demo\obj\Debug\Dialog\Dialog.g.cs
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Demo\obj\Debug\Dialog\Dialog.baml

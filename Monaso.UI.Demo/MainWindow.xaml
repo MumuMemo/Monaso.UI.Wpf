@@ -7,17 +7,31 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:monaso="clr-namespace:Monaso.UI.Wpf;assembly=Monaso.UI.Wpf"
     Title="MainWindow"
-    Width="800"
-    Height="450"
+    Height="900"
+    Background="#212121"
+    Width="1600"
+    WindowStartupLocation="CenterScreen"
+    WindowState="Maximized"
     mc:Ignorable="d">
     <Grid>
-        <monaso:MenuButton
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical">
+            <monaso:DarkTextBox
+                Style="{StaticResource DarkStyle}"
+                FontSize="20"
+                Foreground="#E9E9E9"
+                Tag="Input"
+                Width="200">
+                
+            </monaso:DarkTextBox>
+        </StackPanel>
+        <!--<monaso:MenuButton
             Width="140"
             Height="140"
             Margin="0,28"
             Content="Hello"
+            Click="MenuButton_Click"
             FontSize="20"
             IsSelected="{Binding SelectPatientBtnChecked.IsChecked}"
-            Tag="{StaticResource SelectPatientIcon}"/>
+            Tag="{StaticResource SelectPatientIcon}"/>-->
     </Grid>
 </Window>

@@ -11,26 +11,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Monaso.UI.Demo
+namespace Monaso.UI.Demo.Dialog
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Dialog.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Dialog : Window
     {
-        public MainWindow()
+        public Dialog()
         {
             InitializeComponent();
-        }
-
-        private void MenuButton_Click(object sender, RoutedEventArgs e)
-        {
-            Dialog.Dialog dialog = new Dialog.Dialog();
-
-            dialog.ShowDialog();
         }
     }
 }

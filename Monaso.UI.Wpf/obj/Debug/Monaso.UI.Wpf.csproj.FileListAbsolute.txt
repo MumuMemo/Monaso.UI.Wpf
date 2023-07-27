@@ -14,3 +14,4 @@ D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf.csproj.CoreCo
 D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf.dll
 D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Monaso.UI.Wpf.pdb
 D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Controls\Colors.baml
+D:\CodeForWork\Monaso.UI.Wpf\Monaso.UI.Wpf\obj\Debug\Controls\DarkTextBox\Generic.baml
