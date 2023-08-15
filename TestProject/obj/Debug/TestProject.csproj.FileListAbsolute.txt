@@ -34,3 +34,17 @@ D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\App.baml
 D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\Style\Color.baml
 D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\Style\Font.baml
 D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\Template\Button\ButtonTemplate.baml
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\CommonServiceLocator.dll
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\GalaSoft.MvvmLight.dll
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\System.Windows.Interactivity.dll
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\GalaSoft.MvvmLight.xml
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\Template\TabControl\TabControlTemplate.baml
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\TestProject.csproj.CopyComplete

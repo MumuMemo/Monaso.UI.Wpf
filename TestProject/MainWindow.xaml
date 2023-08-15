@@ -16,9 +16,9 @@
                     x:Name="backgroundElement"
                     Fill="{TemplateBinding Background}"
                     Stroke="{TemplateBinding Foreground}" />
-                <!--使用ContentPresenter元素将按钮的内容呈现在按钮的中心。-->
+                <!--  使用ContentPresenter元素将按钮的内容呈现在按钮的中心。  -->
                 <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
-                <!--使用视觉状态管理器，以便在鼠标悬停时更改按钮的背景颜色。-->
+                <!--  使用视觉状态管理器，以便在鼠标悬停时更改按钮的背景颜色。  -->
                 <VisualStateManager.VisualStateGroups>
                     <VisualStateGroup Name="CommonStates">
                         <VisualState Name="Normal">
@@ -44,7 +44,7 @@
             </Grid>
         </ControlTemplate>
     </Window.Resources>
-    <StackPanel Margin="10">
+    <!--<StackPanel Margin="10">
         <Label>Unstyled Button</Label>
         <Button>Button 1</Button>
         <Label>Rounded Button</Label>
@@ -54,7 +54,7 @@
             Template="{StaticResource roundbutton}">
             Button 2
         </Button>
-    </StackPanel>
+    </StackPanel>-->
     <!--<DockPanel>
         <TextBox DockPanel.Dock="Top">Dock = "Top"</TextBox>
         <TextBox DockPanel.Dock="Bottom">Dock = "Bottom"</TextBox>
@@ -63,4 +63,68 @@
         <TextBox DockPanel.Dock="Right" Background="White">w</TextBox>
         <TextBox Background="White">This TextBox "fills" the remaining space.</TextBox>
     </DockPanel>-->
+    <StackPanel Width="800" Height="500">
+        <TabControl Background="Red" Margin="30">
+            <TabItem>
+                <TabItem.Header>
+                    <TextBlock Text="hello1" />
+                </TabItem.Header>
+                <TextBlock Text="hello1" />
+            </TabItem>
+            <TabItem>
+                <TabItem.Header>
+                    <TextBlock Text="hello2" />
+                </TabItem.Header>
+                <TextBlock Text="hello2" />
+            </TabItem>
+            <TabItem>
+                <TabItem.Header>
+                    <TextBlock Text="hello3" />
+                </TabItem.Header>
+                <TextBlock Text="hello3" />
+            </TabItem>
+        </TabControl>
+    </StackPanel>
+    <!--<StackPanel>
+        <StatusBar
+            Name="sbar"
+            VerticalAlignment="Bottom"
+            Background="Beige">
+
+            <StatusBarItem>
+                <TextBlock>Downloading File</TextBlock>
+            </StatusBarItem>
+            <StatusBarItem>
+                <ProgressBar
+                    Name="progressBar1"
+                    Width="100"
+                    Height="20">
+                    <ProgressBar.Triggers>
+                        <EventTrigger RoutedEvent="ProgressBar.Loaded">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <DoubleAnimation
+                                        Storyboard.TargetName="progressBar1"
+                                        Storyboard.TargetProperty="Value"
+                                        From="0"
+                                        To="100"
+                                        Duration="0:0:5" />
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </ProgressBar.Triggers>
+                </ProgressBar>
+            </StatusBarItem>
+            <Separator />
+            <StatusBarItem>
+                <TextBlock>Online</TextBlock>
+            </StatusBarItem>
+            <StatusBarItem HorizontalAlignment="Right">
+                --><!--<Image
+                    Width="16"
+                    Height="16"
+                    Source="images\help.bmp" />--><!--
+            </StatusBarItem>
+        </StatusBar>
+    </StackPanel>-->
 </Window>
