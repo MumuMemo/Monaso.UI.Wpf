@@ -43,6 +43,33 @@
                 </VisualStateManager.VisualStateGroups>
             </Grid>
         </ControlTemplate>
+        <!--  =============== 提示文本样式 ===============  -->
+        <Style x:Key="FlowToolTip" TargetType="ToolTip">
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="VerticalAlignment" Value="Top" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Grid>
+                            <Border Background="White" CornerRadius="2">
+                                <Border.Effect>
+                                    <DropShadowEffect
+                                        BlurRadius="7"
+                                        Direction="0"
+                                        Opacity="0.09"
+                                        ShadowDepth="0"
+                                        Color="Black" />
+                                </Border.Effect>
+                            </Border>
+                            <TextBlock
+                                Margin="23,6"
+                                FontSize="13"
+                                Text="{TemplateBinding ContentControl.Content}" />
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
     </Window.Resources>
     <!--<StackPanel Margin="10">
         <Label>Unstyled Button</Label>
@@ -63,8 +90,8 @@
         <TextBox DockPanel.Dock="Right" Background="White">w</TextBox>
         <TextBox Background="White">This TextBox "fills" the remaining space.</TextBox>
     </DockPanel>-->
-    <StackPanel Width="800" Height="500">
-        <TabControl Background="Red" Margin="30">
+    <!--<StackPanel Width="800" Height="500">
+        <TabControl Margin="30" Background="Red">
             <TabItem>
                 <TabItem.Header>
                     <TextBlock Text="hello1" />
@@ -84,7 +111,7 @@
                 <TextBlock Text="hello3" />
             </TabItem>
         </TabControl>
-    </StackPanel>
+    </StackPanel>-->
     <!--<StackPanel>
         <StatusBar
             Name="sbar"
@@ -120,11 +147,27 @@
                 <TextBlock>Online</TextBlock>
             </StatusBarItem>
             <StatusBarItem HorizontalAlignment="Right">
-                --><!--<Image
+    -->
+    <!--<Image
                     Width="16"
                     Height="16"
-                    Source="images\help.bmp" />--><!--
+                    Source="images\help.bmp" />-->
+    <!--
             </StatusBarItem>
         </StatusBar>
     </StackPanel>-->
+    <!--  提示框样式  -->
+    <StackPanel Height="800" Width="800">
+        <Button Height="40" Width="40" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button.ToolTip>
+                <ToolTip
+                    x:Name="tooltip"
+                    Content="你是我的我是你的谁"
+                    Placement="Bottom"
+                    PlacementTarget="{Binding ElementName=itemGrid}"
+                    Style="{StaticResource FlowToolTip}"
+                    VerticalOffset="4" />
+            </Button.ToolTip>
+        </Button>
+    </StackPanel>
 </Window>
