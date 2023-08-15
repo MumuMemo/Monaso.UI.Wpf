@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\CodeForWork\Monaso.UI.Wpf\TestProject\App.xaml
-1219584333
+4-1791645549
 
 6102749685
 13-1080843617
-MainWindow.xaml;
+MainWindow.xaml;Style\Color.xaml;Style\Font.xaml;Template\Button\ButtonTemplate.xaml;
 
-True
+False
 

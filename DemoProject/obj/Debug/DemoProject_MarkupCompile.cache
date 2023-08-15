@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\WorkSpace\Monaso.UI.Wpf\DemoProject\obj\Debug\
+D:\CodeForWork\Monaso.UI.Wpf\DemoProject\obj\Debug\
 DemoProject
 none
 false
 DEBUG;TRACE
-D:\WorkSpace\Monaso.UI.Wpf\DemoProject\App.xaml
+D:\CodeForWork\Monaso.UI.Wpf\DemoProject\App.xaml
 9-301148518
 
 11-614589680
-71-493602648
+71610273642
 MainWindow.xaml;Style\Color.xaml;Style\Font.xaml;Template\ButtonTemplate.xaml;Template\Template.xaml;Template\TextBoxTemplate.xaml;View\ButtonPage.xaml;View\ContentControlDictionary.xaml;View\TextBoxPage.xaml;
 
 False

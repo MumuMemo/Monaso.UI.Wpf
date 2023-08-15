@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\WorkSpace\Monaso.UI.Wpf\TestProject\obj\Debug\
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\
 TestProject
 none
 false
 DEBUG;TRACE
-D:\WorkSpace\Monaso.UI.Wpf\TestProject\App.xaml
-1219584333
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\App.xaml
+4-1791645549
 
 51579654133
 13-1080843617
-MainWindow.xaml;
+MainWindow.xaml;Style\Color.xaml;Style\Font.xaml;Template\Button\ButtonTemplate.xaml;
 
 False
 

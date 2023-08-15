@@ -30,3 +30,7 @@ D:\WorkSpace\Monaso.UI.Wpf\TestProject\obj\Debug\TestProject.csproj.GenerateReso
 D:\WorkSpace\Monaso.UI.Wpf\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
 D:\WorkSpace\Monaso.UI.Wpf\TestProject\obj\Debug\TestProject.exe
 D:\WorkSpace\Monaso.UI.Wpf\TestProject\obj\Debug\TestProject.pdb
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\App.baml
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\Style\Color.baml
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\Style\Font.baml
+D:\CodeForWork\Monaso.UI.Wpf\TestProject\obj\Debug\Template\Button\ButtonTemplate.baml

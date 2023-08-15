@@ -44,7 +44,7 @@
             </Grid>
         </ControlTemplate>
     </Window.Resources>
-    <!--<StackPanel Margin="10">
+    <StackPanel Margin="10">
         <Label>Unstyled Button</Label>
         <Button>Button 1</Button>
         <Label>Rounded Button</Label>
@@ -54,13 +54,13 @@
             Template="{StaticResource roundbutton}">
             Button 2
         </Button>
-    </StackPanel>-->
-    <DockPanel>
+    </StackPanel>
+    <!--<DockPanel>
         <TextBox DockPanel.Dock="Top">Dock = "Top"</TextBox>
         <TextBox DockPanel.Dock="Bottom">Dock = "Bottom"</TextBox>
         <TextBox DockPanel.Dock="Left">Dock = "Left"</TextBox>
         <TextBox DockPanel.Dock="Top" Background="White">This TextBox "fills" the remaining space.</TextBox>
         <TextBox DockPanel.Dock="Right" Background="White">w</TextBox>
         <TextBox Background="White">This TextBox "fills" the remaining space.</TextBox>
-    </DockPanel>
+    </DockPanel>-->
 </Window>
